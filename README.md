@@ -23,7 +23,7 @@
 
 <img width="" height="" src="./png/W5강아지.jpg"></img>
 
-## 5주차 과제
+## 6주차 과제
 
 <img width="" height="" src="./png/W6img01W.jpg"></img>
 <img width="" height="" src="./png/W6img01H.jpg"></img>
