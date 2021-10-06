@@ -22,3 +22,11 @@
 <img width="" height="" src="./png/W5고양이.jpg"></img>
 
 <img width="" height="" src="./png/W5강아지.jpg"></img>
+
+## 5주차 과제
+
+<img width="" height="" src="./png/W6img01W.jpg"></img>
+<img width="" height="" src="./png/W6img01H.jpg"></img>
+
+<img width="" height="" src="./png/W6img02W.jpg"></img>
+<img width="" height="" src="./png/W6img02H.jpg"></img>
