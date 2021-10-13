@@ -30,3 +30,7 @@
 
 <img width="" height="" src="./png/W6img02W.jpg"></img>
 <img width="" height="" src="./png/W6img02H.jpg"></img>
+
+## 7주차 과제
+
+<img width="" height="" src="./png/W7SMS글자수.jpg"></img>
