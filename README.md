@@ -49,3 +49,6 @@
 
 ## 11주차 과제
 <img width="" height="" src="./png/W11_웹으로요청.jpg"></img>
+
+## 12주차 과제
+<img width="" height="" src="./png/W12.jpg"></img>
